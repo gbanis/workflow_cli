@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["gbanis@gmail.com"]
 
   spec.summary       = %q{A collection of command line tools that integrate Git, Github and Trello to help you be more productive.}
-  spec.description   = %q{Workflow CLI allows you to perform common workflow tasks right from your terminal. Forget about clicking multiple links to get a simple thing done. Reduce your development time. Be more productive. Feel less frustrated.}
+  spec.description   = %q{Workflow CLI allows you to perform common workflow tasks right from your terminal. Forget about clicking multiple links to get a simple thing done. Reduce your development time. Be more productive and feel less frustrated!}
   spec.homepage      = "https://github.com/gbanis/workflow_cli"
   spec.license       = "MIT"
 
